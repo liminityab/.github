@@ -49,8 +49,8 @@ For small and medium-sized enterprises, we offer:
 ## Contact
 
 - Website: [www.liminity.se](https://www.liminity.se)
-- LinkedIn: [Liminity](https://www.linkedin.com/company/liminity)
 - Careers: [jobb.liminity.se](https://jobb.liminity.se)
+- LinkedIn: [Liminity AB](https://www.linkedin.com/company/liminity-ab/)
 
 ---
 
