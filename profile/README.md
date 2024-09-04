@@ -1,7 +1,11 @@
-![Liminity Logo](https://www.liminity.se/logo/black.svg#gh-light-mode-only)
-![Liminity Logo](https://www.liminity.se/logo/white.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.liminity.se/logo/white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.liminity.se/logo/black.svg">
+  <img alt="Liminity Logo" src="https://www.liminity.se/logo/black.svg">
+</picture>
 
 ## About Us
+
 Liminity, founded in 2016, is an IT consulting company based in Stockholm. We focus on delivering quality IT services and solutions to businesses in the region.
 
 ## Our Services
